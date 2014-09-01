@@ -16,5 +16,10 @@ var User = {
 
 		console.log('log');
 
+	},
+
+	bind: function () {
+
+		console.log('bind');
 	}
 }
