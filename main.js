@@ -21,5 +21,12 @@ var User = {
 	bind: function () {
 
 		console.log('bind');
+
+	},
+
+	onShow: function () {
+
+		console.log('onShow');
+	
 	}
 }
