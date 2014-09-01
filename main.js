@@ -4,7 +4,8 @@ var data = {
 			name: 'John',
 			email: 'john.lund@burberry.com',
 			description: 'developer',
-			status: 'active'
+			status: 'active',
+			isAdmin: true
 		}
 	]
 }
