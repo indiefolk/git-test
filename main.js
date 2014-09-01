@@ -1,7 +1,12 @@
 var data = {
-	name: 'John',
-	description: 'developer',
-	status: 'active'
+	users: [
+		{
+			name: 'John',
+			email: 'john.lund@burberry.com',
+			description: 'developer',
+			status: 'active'
+		}
+	]
 }
 
 
