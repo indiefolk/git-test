@@ -16,5 +16,11 @@ var User = {
 
 		console.log('log');
 
+	},
+
+	onShow: function () {
+
+		console.log('onShow');
+	
 	}
 }
