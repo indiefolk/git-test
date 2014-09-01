@@ -16,11 +16,15 @@ var User = {
 
 		console.log('log');
 
+		console.log('message');		
+
 	},
 
 	bind: function () {
 
 		console.log('bind');
+
+		// Do bind function 
 
 	},
 
